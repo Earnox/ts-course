@@ -1,0 +1,12 @@
+{
+  "name": "02-crud",
+  "version": "1.0.0",
+  "description": "Le but de cet exercice est de créer un court CRUD permettant d'ajouter des classes dans une BDD.\r Dans le cadre de cet exercice, aucune base de données ne sera créée. Les opérations seront directement\r stockés en RAM dans une classe `TaskRepository` afin de suivre la pattern MVC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
